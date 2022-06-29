@@ -2,4 +2,6 @@
 
 This tool will help you.
 
+Note: this tool wants to be helpful without being a substitute to the manuals.
+
 ## WORK IN PROGRESS
